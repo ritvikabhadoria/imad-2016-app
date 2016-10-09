@@ -9,4 +9,5 @@ element.innerHTML='New Value';
 var image=document.getElementbyid('img');
 img.onclick=fucntion(){
     img.style.marginLeft='100px';
-};
+}
+
