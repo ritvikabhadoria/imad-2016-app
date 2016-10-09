@@ -4,4 +4,7 @@ console.log('Loaded!');
 var element=document.getElementByid('main-text');
 element.innerHTML='New Value';
 
+//MOVE THE IMAGE
+
+var image=document.getElementbyid('img');
 
